@@ -1,0 +1,9 @@
+Code-Review+2: Emilien Macchi <emilien@redhat.com>
+Workflow+1: Sam Doran <sdoran@redhat.com>
+Code-Review+2: Sam Doran <sdoran@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 13 Sep 2018 20:57:37 +0000
+Reviewed-on: https://review.openstack.org/585105
+Project: openstack/ansible-role-tripleo-ui
+Branch: refs/heads/master
